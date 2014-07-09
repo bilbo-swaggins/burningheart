@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+<g id="logo">
+	<path fill="#858585" d="M33,32h9v7h-9v21h-9V39h-7v-7h7V20.714c0-0.324,0.305-0.654,0.305-0.989c0-1.991,1.244-3.554,2.938-4.855
+		C28.936,13.568,31.469,13,34.051,13H42v9h-4.496C35.835,22,33,21.373,33,23.01V32z"/>
+	<path display="none" fill="none" stroke="#FFFFFF" stroke-width="2.7474" stroke-linecap="round" stroke-miterlimit="10" d="
+		M30.786,14.006c0,0,1.24-9.952-11.47-9.574"/>
+	<path display="none" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.7474" stroke-linecap="round" stroke-miterlimit="10" d="
+		M35.952,14.006c0,0-0.723-5.269,3.617-8.368"/>
+	
+		<circle display="none" fill="#229647" stroke="#000000" stroke-width="0.3434" stroke-miterlimit="10" cx="18.489" cy="4.421" r="2.429"/>
+	
+		<circle display="none" fill="#229647" stroke="#000000" stroke-width="0.3434" stroke-miterlimit="10" cx="40.168" cy="4.913" r="2.429"/>
+</g>
+<g id="twitch">
+	<path fill="#FFFFFF" d="M135.435,14L132,19.537V51h10.262l0.213,8.98l10.67-8.98h8.744l5.901-7.2l0.734-1.638L171,38.576V14
+		H135.435z M169,36.644L163.123,42h-12.514l-3.417,5.438L146.377,42H138V18h31V36.644z"/>
+	<path fill="none" d="M87.76-9.971"/>
+	<rect x="148" y="26" fill="#26B34B" width="4" height="10"/>
+	<rect x="158" y="26" fill="#26B34B" width="4" height="10"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.8482" stroke-linecap="round" stroke-miterlimit="10" d="M150.998,13.373
+		c0,0,1.285-10.317-11.891-9.925"/>
+	<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.8482" stroke-linecap="round" stroke-miterlimit="10" d="M156.354,13.373
+		c0,0-0.75-5.462,3.75-8.675"/>
+	<circle fill="#26B34B" stroke="#000000" stroke-width="0.356" stroke-miterlimit="10" cx="138.25" cy="3.437" r="2.518"/>
+	<circle fill="#26B34B" stroke="#000000" stroke-width="0.356" stroke-miterlimit="10" cx="160.724" cy="3.947" r="2.518"/>
+</g>
+<g id="justin_tv">
+	<path fill="#FFFFFF" d="M296.002,21l-7.752,22.81L287.503,46h-6.49l-0.792-2.915L274.382,26H270v11.516
+		c0,1.015,1.567,1.83,2.904,1.83c0.418,0,1.049-0.079,1.392-0.222l1.693,5.312c-1.426,0.994-3.156,1.587-5.098,1.587
+		c-3.936,0-7.925-2.424-8.904-5.698c-0.194-0.643-0.988-1.323-0.988-2.023V26h-2v18.63c0,0.379-0.05,0.736-0.095,1.101
+		c-0.575,4.669-4.79,8.287-9.875,8.287c-0.261,0-0.52-0.007-0.767-0.029l-2.145-6.206c1.845-0.415,2.881-1.902,2.881-3.682V17h10v4
+		h2v-5h9v5h10.11l2.293,6.142l1.733,5.008L287.974,21H296.002z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.7036" stroke-linecap="round" stroke-miterlimit="10" d="M263.116,16.421
+		c0,0,1.2-9.955-11.103-9.577"/>
+	<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.5754" stroke-linecap="round" stroke-miterlimit="10" d="M268.385,16.461
+		c0,0-0.635-5.27,3.178-8.371"/>
+	
+		<ellipse fill="#229647" stroke="#000000" stroke-width="0.3379" stroke-miterlimit="10" cx="251.484" cy="6.873" rx="2.352" ry="2.43"/>
+	
+		<ellipse fill="#229647" stroke="#000000" stroke-width="0.3219" stroke-miterlimit="10" cx="272.088" cy="7.365" rx="2.134" ry="2.43"/>
+</g>
+</svg>
